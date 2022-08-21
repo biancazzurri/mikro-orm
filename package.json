@@ -1,5 +1,5 @@
 {
-  "name": "@madlan-mikro-orm/core",
+  "name": "@mikro-orm/core",
   "workspaces": [
     "packages/*"
   ],
