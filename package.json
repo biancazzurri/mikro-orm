@@ -1,6 +1,5 @@
 {
-  "name": "@mikro-orm/core",
-  "private": true,
+  "name": "@madlan-mikro-orm/core",
   "workspaces": [
     "packages/*"
   ],
@@ -8,10 +7,6 @@
   "description": "TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, PostgreSQL and SQLite databases as well as usage with vanilla JavaScript.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/mikro-orm/mikro-orm.git"
-  },
   "keywords": [
     "orm",
     "mongo",
